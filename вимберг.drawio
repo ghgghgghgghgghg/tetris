@@ -1,0 +1,1053 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition Yx GX 03)" version="26.0.4" pages="2">
+  <diagram name="Страница — 1" id="-Ra4lz7wb5-2p2A74dKO">
+    <mxGraphModel dx="589" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2100" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2365" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2628" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2915" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1410" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1150" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="850" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="550" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="255" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="1625" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="1775" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="1925" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="2075" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="2225" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-151">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="2375" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-1" target="pbdhQ3Jy28xuNSDl6x8Q-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="2525" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-1" value="Генеральный директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="70" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-2" target="pbdhQ3Jy28xuNSDl6x8Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-2" target="pbdhQ3Jy28xuNSDl6x8Q-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-2" target="pbdhQ3Jy28xuNSDl6x8Q-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-2" target="pbdhQ3Jy28xuNSDl6x8Q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-2" target="pbdhQ3Jy28xuNSDl6x8Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-2" value="Первый заместитель генерального директора - главный инженер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-3" target="pbdhQ3Jy28xuNSDl6x8Q-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2915" y="250" />
+              <mxPoint x="2800" y="250" />
+              <mxPoint x="2800" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-3" target="pbdhQ3Jy28xuNSDl6x8Q-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2915" y="250" />
+              <mxPoint x="2800" y="250" />
+              <mxPoint x="2800" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-3" target="pbdhQ3Jy28xuNSDl6x8Q-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2915" y="250" />
+              <mxPoint x="2800" y="250" />
+              <mxPoint x="2800" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-3" value="Заместитель генерального директора по взаимодействию с органами государственной власти" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="200" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-4" value="Заместитель генерального директора по безопасности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2537.5" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-5" target="pbdhQ3Jy28xuNSDl6x8Q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-5" target="pbdhQ3Jy28xuNSDl6x8Q-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2365" y="250" />
+              <mxPoint x="2240" y="250" />
+              <mxPoint x="2240" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-5" target="pbdhQ3Jy28xuNSDl6x8Q-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2365" y="250" />
+              <mxPoint x="2240" y="250" />
+              <mxPoint x="2240" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-5" value="Заместитель генерального директора - руководитель Аппарата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="200" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-6" target="pbdhQ3Jy28xuNSDl6x8Q-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2105" y="250" />
+              <mxPoint x="2000" y="250" />
+              <mxPoint x="2000" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-6" target="pbdhQ3Jy28xuNSDl6x8Q-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2105" y="250" />
+              <mxPoint x="2000" y="250" />
+              <mxPoint x="2000" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-6" target="pbdhQ3Jy28xuNSDl6x8Q-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2105" y="250" />
+              <mxPoint x="2000" y="250" />
+              <mxPoint x="2000" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-6" value="Заместитель генерального директора по оперативной деятельнгости" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="200" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-7" target="pbdhQ3Jy28xuNSDl6x8Q-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-7" value="Главный бухгалтер&amp;nbsp; - начальник департамента бухгалтерского и налогового учета и отчетности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-8" target="pbdhQ3Jy28xuNSDl6x8Q-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-8" target="pbdhQ3Jy28xuNSDl6x8Q-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="250" />
+              <mxPoint x="420" y="250" />
+              <mxPoint x="420" y="504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-8" value="Заместитель генерального директора по экономике и финансам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-9" target="pbdhQ3Jy28xuNSDl6x8Q-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="251" />
+              <mxPoint x="730" y="251" />
+              <mxPoint x="730" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-9" target="pbdhQ3Jy28xuNSDl6x8Q-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="250" />
+              <mxPoint x="730" y="250" />
+              <mxPoint x="730" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-9" target="pbdhQ3Jy28xuNSDl6x8Q-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="250" />
+              <mxPoint x="730" y="250" />
+              <mxPoint x="730" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-9" value="Заместитель генерального директора по капитальному строительству и инвестиционной деятельности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-10" target="pbdhQ3Jy28xuNSDl6x8Q-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="250" />
+              <mxPoint x="1030" y="250" />
+              <mxPoint x="1030" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-10" target="pbdhQ3Jy28xuNSDl6x8Q-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="250" />
+              <mxPoint x="1030" y="250" />
+              <mxPoint x="1030" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-10" target="pbdhQ3Jy28xuNSDl6x8Q-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="250" />
+              <mxPoint x="1030" y="250" />
+              <mxPoint x="1030" y="620" />
+              <mxPoint x="1157" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-10" value="Заместитель генерального директора по корпоративному управлению" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-11" target="pbdhQ3Jy28xuNSDl6x8Q-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-11" target="pbdhQ3Jy28xuNSDl6x8Q-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="250" />
+              <mxPoint x="1280" y="250" />
+              <mxPoint x="1280" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-11" target="pbdhQ3Jy28xuNSDl6x8Q-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="250" />
+              <mxPoint x="1280" y="250" />
+              <mxPoint x="1280" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-11" value="Заместитель генерального директора по развитию реализации услуг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-13" target="pbdhQ3Jy28xuNSDl6x8Q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-13" value="Заместитель главного инженера по эксплуатации - начальник департамента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="267.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-14" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры проектировщики&lt;/li&gt;&lt;li&gt;Проектные менеджеры&lt;/li&gt;&lt;li&gt;Специалисты по техническому обслуживанию&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="356.25" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-15" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры по контролю качества электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по мониторингу качетсва элетроэнергии&lt;/li&gt;&lt;li&gt;Документоведы&lt;/li&gt;&lt;li&gt;Аналитики нормативных документов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="730" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-16" value="&lt;ul style=&quot;margin-top: 12px; padding-left: 15px;&quot;&gt;&lt;li&gt;Метрологи&lt;/li&gt;&lt;li&gt;Инженеры метроголи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-17" value="Начальник отдела метрологии и контроля качества электроэнергии" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-18" target="pbdhQ3Jy28xuNSDl6x8Q-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-18" value="Заместитель главного инженера по производственной безопасности и производственному контролю - начальник департамента" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="470" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-19" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инспекторы по охране труда&lt;/li&gt;&lt;li&gt;Инженеры по охране труда&lt;/li&gt;&lt;li&gt;Контролеры качества&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1578.75" y="650" width="127.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-20" target="pbdhQ3Jy28xuNSDl6x8Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-20" value="Заместитель главного инженера по технологическому развитию и инновациям - начальник департамента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="650" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-21" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Инженеры по оперативному управлению&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Аналитики оперативного управления&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Аналитики технологических процессов&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2&#xa;;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="370" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-22" value="Заместитель главного инженера по оперативно технологическому ситуационному управлению - начальник департамента" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="270" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.447;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-22" target="pbdhQ3Jy28xuNSDl6x8Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.426;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-17" target="pbdhQ3Jy28xuNSDl6x8Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-34" target="pbdhQ3Jy28xuNSDl6x8Q-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-34" value="Начальник департамента по цифровой трансформации" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="265" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-35" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Менеджеры проектов&lt;/li&gt;&lt;li&gt;Системные архитекторы&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="350" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-36" value="Начальник департамента информационных технологий" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="425" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-37" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по технической поддержке ПО&lt;/li&gt;&lt;li&gt;Специалисты по безопасности сетей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="510" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-38" target="pbdhQ3Jy28xuNSDl6x8Q-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-38" value="&lt;div&gt;Проектный офис&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="595" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-39" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики безопасности&lt;/li&gt;&lt;li&gt;Координаторы проектов&lt;/li&gt;&lt;li&gt;Аналитики проектов&lt;/li&gt;&lt;li&gt;Бизнес - аналитики&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="650" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-36" target="pbdhQ3Jy28xuNSDl6x8Q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-49" target="pbdhQ3Jy28xuNSDl6x8Q-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-49" value="Начальник департамента управления персоналом организационного проектирования" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="265" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-50" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;HR - менеджеры&lt;/li&gt;&lt;li&gt;Аналитики орг. процессов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2277.5" y="350" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-51" value="Начальник департамента внутреннего контроля, управления рисками и менеджмента качества&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="425" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-52" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по внутреннему контролю&lt;/li&gt;&lt;li&gt;Аудиторы качества&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="510" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-54" target="pbdhQ3Jy28xuNSDl6x8Q-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-54" value="&lt;div&gt;Начальник департамента по управлению делами&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="595" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-55" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по административной поддержке&lt;/li&gt;&lt;li&gt;Складовские рабочие&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="650" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-51" target="pbdhQ3Jy28xuNSDl6x8Q-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pbdhQ3Jy28xuNSDl6x8Q-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2630" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2631" y="230" />
+              <mxPoint x="2631" y="251" />
+              <mxPoint x="2510" y="251" />
+              <mxPoint x="2510" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pbdhQ3Jy28xuNSDl6x8Q-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2630" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2630" y="250" />
+              <mxPoint x="2510" y="250" />
+              <mxPoint x="2510" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pbdhQ3Jy28xuNSDl6x8Q-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2630" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2630" y="250" />
+              <mxPoint x="2510" y="250" />
+              <mxPoint x="2510" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-65" target="pbdhQ3Jy28xuNSDl6x8Q-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-65" value="Начальник департамента безопасности" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2555" y="265" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-66" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по экономической безопасности&lt;/li&gt;&lt;li&gt;Аналитики оперативной безопасности&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2528.75" y="350" width="197.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-67" value="Сектор по защите государственной тайны" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="425" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-68" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Архивариусы&lt;/li&gt;&lt;li&gt;Инженеры по защите информации&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="510" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-70" target="pbdhQ3Jy28xuNSDl6x8Q-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-70" value="&lt;div&gt;Начальник отдела по мобилизационной подготовке и ГО&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2537.5" y="595" width="185" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-71" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики мобилизационной готовности&lt;/li&gt;&lt;li&gt;Специалисты по мобилизационному планированию&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2532.5" y="660" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-67" target="pbdhQ3Jy28xuNSDl6x8Q-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-75" target="pbdhQ3Jy28xuNSDl6x8Q-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-75" value="Начальник управления по взаимодействию с органами государственной власти и местного самоуправлния" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2826.25" y="265" width="177.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-76" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики местных нормативных актов&lt;/li&gt;&lt;li&gt;Консультанты по местным программам&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2816.25" y="350" width="197.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-77" value="Директор по внешним коммуникациям - начальник департамента по связям с общественностью" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2832.5" y="425" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-78" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Пресс - секретари&lt;/li&gt;&lt;li&gt;Специалисты по работе со СМИ&lt;/li&gt;&lt;li&gt;SMM - менеджеры&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2832.5" y="510" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-80" target="pbdhQ3Jy28xuNSDl6x8Q-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-80" value="&lt;div&gt;Начальник департамента внутреннего аудита&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2825" y="595" width="185" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-81" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики аудиторских процессов&lt;/li&gt;&lt;li&gt;Специалисты по планированию аудита&lt;/li&gt;&lt;li&gt;Аналитики рисков&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="660" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-77" target="pbdhQ3Jy28xuNSDl6x8Q-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-93" target="pbdhQ3Jy28xuNSDl6x8Q-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-93" value="Начальник департамента коммерческого учета и реализации услуг по передаче эелктроэнергии" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="270" width="155" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-94" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики коммерческого учета&lt;/li&gt;&lt;li&gt;Контролеры передачи электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по информационной поддержке&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="355" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-95" value="Начальник департамента технологического присоединения" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="452.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-96" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики коммерческого учета&lt;/li&gt;&lt;li&gt;Контролеры передачи электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по информационной поддержке&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="537.5" width="175" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-98" target="pbdhQ3Jy28xuNSDl6x8Q-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-98" value="&lt;div&gt;Департамент перспективного развития&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="660" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-99" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики коммерческого учета&lt;/li&gt;&lt;li&gt;Контролеры передачи электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по информационной поддержке&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="710" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-95" target="pbdhQ3Jy28xuNSDl6x8Q-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-105" target="pbdhQ3Jy28xuNSDl6x8Q-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-105" value="Начальник департамента корпоративного управления и взаимодействия с акционерами" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="270" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-106" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по корпоративному праву&lt;/li&gt;&lt;li&gt;Менеджеры по работе с акционерами&lt;/li&gt;&lt;li&gt;Координаторы мероприятий&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="355" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pkLLoby-I6aV0SG49kGG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-107" target="pbdhQ3Jy28xuNSDl6x8Q-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-107" value="Начальник департамента правового обеспечения" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="452.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-108" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Юристы по договорной работе&lt;/li&gt;&lt;li&gt;Адвокаты&lt;/li&gt;&lt;li&gt;Юристы по трудовому праву&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="537.5" width="175" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-110" target="pbdhQ3Jy28xuNSDl6x8Q-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-110" value="&lt;div&gt;Начальник департамента управления собственностью&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="632.5" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-111" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Юристы по недвижимости&lt;/li&gt;&lt;li&gt;Аудиторы собственностью&lt;/li&gt;&lt;li&gt;Юристы по аренде&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="682.5" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-107" target="pbdhQ3Jy28xuNSDl6x8Q-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-117" target="pbdhQ3Jy28xuNSDl6x8Q-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-117" value="Начальник департамента капитального строительства" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="271.25" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-118" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры&lt;/li&gt;&lt;li&gt;Архитекторы&lt;/li&gt;&lt;li&gt;Специалисты по градостроительству&lt;/li&gt;&lt;li&gt;Инженеры по оценке стоимости проектов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="745" y="356.25" width="225" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-119" value="Начальник департамента логистики и материально - технического обеспечения" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="775" y="453.75" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-120" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по планированию закупок&lt;/li&gt;&lt;li&gt;Менеджеры по закупкам&lt;/li&gt;&lt;li&gt;Аналитики по рынку&lt;/li&gt;&lt;li&gt;Логисты&lt;/li&gt;&lt;li&gt;Диспетчеры&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="775" y="538.75" width="205" height="91.25" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-122" target="pbdhQ3Jy28xuNSDl6x8Q-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-122" value="&lt;div&gt;Начальник департамента по управлению инвестициями&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="775" y="660" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-123" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инвестиционные аналитики&lt;/li&gt;&lt;li&gt;Специалисты по оценке проектов&lt;/li&gt;&lt;li&gt;Менеджеры инвестиционного портфеля&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="775" y="710" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-119" target="pbdhQ3Jy28xuNSDl6x8Q-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-129" target="pbdhQ3Jy28xuNSDl6x8Q-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-129" value="Директор по экономике и тарифообразованию" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="265" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-130" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по тарифообразованию&lt;/li&gt;&lt;li&gt;Аналитики по ценообразованию&lt;/li&gt;&lt;li&gt;Экономисты по тарифной политике&lt;/li&gt;&lt;li&gt;Специалисты по расчету тарифов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="350" width="225" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-131" value="Начальник департамента финансов" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="455" y="476.88" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-132" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Казначеи&lt;/li&gt;&lt;li&gt;Специалисты по управлению ликвидностью&lt;/li&gt;&lt;li&gt;Аналитики по прогнозированию денежных потоков&lt;/li&gt;&lt;li&gt;Специалисты по кредитообразованию&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="455" y="555.9399999999999" width="205" height="108.12" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbdhQ3Jy28xuNSDl6x8Q-131" target="pbdhQ3Jy28xuNSDl6x8Q-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-138" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Бухгалтера по расчету заработной платы&lt;/li&gt;&lt;li&gt;Бухгалтера по расчету основных средств&lt;/li&gt;&lt;li&gt;Бухгалтера по налоговому учету&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="271.25" width="205" height="108.12" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-146" value="Директор Мурманского Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1865" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-147" value="Директор Филиала в Республике Коми" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2015" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-148" value="Директор Вологодского Филиала&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-149" value="Директор Архангельского Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-150" value="Директор Псковского Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-151" value="Директор Новгородского Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2315" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pbdhQ3Jy28xuNSDl6x8Q-152" value="Директор Карельского Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="peQpAmIcgr1nwcmkOkCg" name="Страница — 2">
+    <mxGraphModel dx="1539" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2075" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="2335" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1410" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1150" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="980" />
+              <mxPoint x="1623" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="980" />
+              <mxPoint x="1793" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="1540" y="140" />
+              <mxPoint x="1540" y="980" />
+              <mxPoint x="1988" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="900" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-15" target="1nFtFiDizwIgdmNqPyWO-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="140" />
+              <mxPoint x="620" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-15" value="Директор Филиала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="70" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-21" target="1nFtFiDizwIgdmNqPyWO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-21" target="1nFtFiDizwIgdmNqPyWO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-21" target="1nFtFiDizwIgdmNqPyWO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-21" target="1nFtFiDizwIgdmNqPyWO-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-21" target="1nFtFiDizwIgdmNqPyWO-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-21" value="Первый заместитель директора - главный инженер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-30" target="1nFtFiDizwIgdmNqPyWO-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-30" target="1nFtFiDizwIgdmNqPyWO-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2335" y="255" />
+              <mxPoint x="2210" y="255" />
+              <mxPoint x="2210" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-30" target="1nFtFiDizwIgdmNqPyWO-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2335" y="255" />
+              <mxPoint x="2210" y="255" />
+              <mxPoint x="2210" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-30" value="Заместитель генерального директора - руководитель Аппарата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="205" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-34" target="1nFtFiDizwIgdmNqPyWO-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2075" y="255" />
+              <mxPoint x="1970" y="255" />
+              <mxPoint x="1970" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-34" target="1nFtFiDizwIgdmNqPyWO-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2075" y="255" />
+              <mxPoint x="1970" y="255" />
+              <mxPoint x="1970" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-34" target="1nFtFiDizwIgdmNqPyWO-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2075" y="255" />
+              <mxPoint x="1970" y="255" />
+              <mxPoint x="1970" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-34" value="Заместитель директора по инвестиционной деятельности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="205" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-38" target="1nFtFiDizwIgdmNqPyWO-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-38" value="Управление правового обеспечения и управления собственностью" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-42" target="1nFtFiDizwIgdmNqPyWO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-42" target="1nFtFiDizwIgdmNqPyWO-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="250" />
+              <mxPoint x="1280" y="250" />
+              <mxPoint x="1280" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-42" value="Заместитель директора по развитию и реализации услуг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-44" target="1nFtFiDizwIgdmNqPyWO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-44" value="Заместитель главного инженера по эксплуатации - начальник управления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="267.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-45" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры проектировщики&lt;/li&gt;&lt;li&gt;Инженеры по техническому перевооружению&lt;/li&gt;&lt;li&gt;Специалисты по реконструкции объектов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="356.25" width="155" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-46" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры исследователи&lt;/li&gt;&lt;li&gt;Научные сотрудники&lt;/li&gt;&lt;li&gt;Разработчики новых технологий&lt;/li&gt;&lt;li&gt;Лаборанты&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="562.5" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-50" target="1nFtFiDizwIgdmNqPyWO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-50" value="Начальник отдела метрологии и контроля качества электроэнергии" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="490" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-51" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры по контролю качества электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по мониторингу качества электроэнергии&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1578.75" y="580" width="127.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-53" target="1nFtFiDizwIgdmNqPyWO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-53" value="Начальник отдела технологического развития и инноваций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="482.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-54" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Диспетчеры сетевого управления&lt;/li&gt;&lt;li&gt;Операторы мониторинга сетей&lt;/li&gt;&lt;li&gt;Аналитики сетевых данных&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2&#xa;;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-55" value="Заместитель главного инженера по оперативно технологическому ситуационному управлению - начальник центра" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="270" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.447;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-55" target="1nFtFiDizwIgdmNqPyWO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-59" target="1nFtFiDizwIgdmNqPyWO-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-59" value="Начальник управления капитального строительства" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="270" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-60" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по закупкам&lt;/li&gt;&lt;li&gt;Логисты&lt;/li&gt;&lt;li&gt;Складские рабочие&lt;/li&gt;&lt;li&gt;Специалисты по цправлению запасами&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="355" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-61" value="Начальник управления инвестициями" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="465" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-62" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инвестиционные аналитики&lt;/li&gt;&lt;li&gt;Специалисты по оценке инвестиционных проектов&lt;/li&gt;&lt;li&gt;Финансовые аналитики&lt;/li&gt;&lt;li&gt;Экономисты&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1987.5" y="547.5" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-64" target="1nFtFiDizwIgdmNqPyWO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-64" value="&lt;div&gt;Начальник управления логистикой и техническим обеспечением&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="647.5" width="175" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-65" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Логисты&lt;/li&gt;&lt;li&gt;Специалисты по планированию логистики&lt;/li&gt;&lt;li&gt;Координаторы логистических процессов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="725" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-61" target="1nFtFiDizwIgdmNqPyWO-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-68" target="1nFtFiDizwIgdmNqPyWO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-68" value="Начальник управления по развитию дополнительных услуг" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="270" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-69" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики рынка&lt;/li&gt;&lt;li&gt;Специалисты по конкурентному анализу&lt;/li&gt;&lt;li&gt;Маркетологи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2247.5" y="355" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-70" value="Начальник отдела управления делами" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="430" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-71" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по административной поддержке&lt;/li&gt;&lt;li&gt;Складские рабочие&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="515" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-73" target="1nFtFiDizwIgdmNqPyWO-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-73" value="Начальник управления по работе с персоналом" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="600" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-74" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Специалисты по подбору персонала&lt;/li&gt;&lt;li&gt;HR - менеджеры&lt;/li&gt;&lt;li&gt;Тренеры и инструкторы&lt;/li&gt;&lt;li&gt;Специалисты по оценке персонала&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="655" width="175" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-70" target="1nFtFiDizwIgdmNqPyWO-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-98" target="1nFtFiDizwIgdmNqPyWO-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-98" value="Начальник управления реализации услуг и учета электроэнергии, энергосбережения и повышения, энергоэффективности" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-99" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Аналитики коммерческого учета&lt;/li&gt;&lt;li&gt;Контролеры передачи электроэнергии&lt;/li&gt;&lt;li&gt;Специалисты по информационной поддержке&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="390" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-100" value="Управление технологического присоединения и перспективного развития" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="525" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-101" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Инженеры по технологическому присоединению&lt;/li&gt;&lt;li&gt;Специалисты по проектированию сетей&lt;/li&gt;&lt;li&gt;Аналитики технологических решений&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="610" width="175" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-100" target="1nFtFiDizwIgdmNqPyWO-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-115" target="1nFtFiDizwIgdmNqPyWO-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-115" value="Директор производственного отделения &quot;Ильменские электрические сети&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1010" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-117" target="1nFtFiDizwIgdmNqPyWO-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-117" value="Директор производственного отделения &quot;Валдайские электрические сети&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="1010" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-118" target="1nFtFiDizwIgdmNqPyWO-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-118" value="Директор производственного отделения &quot;Боровичские электрические сети&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1010" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-122" target="1nFtFiDizwIgdmNqPyWO-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-122" value="Заместитель главного инженера - начальник управления производственной безопасности, охраны труда и производственного контроля" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="695" width="135" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-123" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Инженеры по охране труда.&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Мастера и бригадиры производственных участков.&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Инспекторы труда.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1572.5" y="830" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-126" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Юристы&lt;/li&gt;&lt;li&gt;Специалисты по правовому сопровождению&lt;/li&gt;&lt;li&gt;Консультанты по правовым вопросам&lt;/li&gt;&lt;li&gt;Аналитики правовых рисков&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1062.5" y="260" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-130" target="1nFtFiDizwIgdmNqPyWO-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-130" target="1nFtFiDizwIgdmNqPyWO-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="250" />
+              <mxPoint x="770" y="250" />
+              <mxPoint x="770" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-130" value="Заместитель директора по экономике и финансам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-132" target="1nFtFiDizwIgdmNqPyWO-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-132" value="Начальник управления экономике и тарифообразования" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="810" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-133" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Экономисты - аналитики&lt;/li&gt;&lt;li&gt;Специалисты по экономическому прогнозированию&lt;/li&gt;&lt;li&gt;Аналитики рынка&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-134" value="Начальник управления по финансам" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="525" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-135" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Экономисты&lt;/li&gt;&lt;li&gt;Аналитики по бюджетированию&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="830" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-134" target="1nFtFiDizwIgdmNqPyWO-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nFtFiDizwIgdmNqPyWO-140" target="1nFtFiDizwIgdmNqPyWO-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-140" value="Главный бухгалтер - начальник управления бухгалтерского и налогового учета и отчетности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-147" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Бухгалтера по расчету заработной платы&lt;/li&gt;&lt;li&gt;Бухгалтера п расчету основных средств&lt;/li&gt;&lt;li&gt;Бухгалтера по налоговому учету&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="270" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-152" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Главный инженер&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Электромонтеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Диспетчеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Инспекторы энергонадзора&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1552.5" y="1100" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-153" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Главный инженер&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Электромонтеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Диспетчеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Инспекторы энергонадзора&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1722.5" y="1100" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nFtFiDizwIgdmNqPyWO-154" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Главный инженер&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Электромонтеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Диспетчеры&lt;/li&gt;&lt;li style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: light-dark(rgba(59,130,246,.5), #4c89ec); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: hsl(var(--border)); border-image: initial; margin-top: 0.5em; margin-bottom: 0.5em; padding-inline-start: 0.375em;&quot;&gt;Инспекторы энергонадзора&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1917.5" y="1100" width="140" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
